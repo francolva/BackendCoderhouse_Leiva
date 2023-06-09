@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1686269628839",
+		"title": "Smart TV",
+		"description": "Televisor inteligente 4K",
+		"price": 210000,
+		"thumbnail": "no",
+		"stock": 2
+	},
+	{
+		"id": "1686269645728",
+		"title": "Smartphone",
+		"description": "Celular inteligente",
+		"price": 90000,
+		"thumbnail": "no",
+		"stock": 12
+	},
+	{
+		"id": "1686269658968",
+		"title": "Playstation",
+		"description": "Consola de videojuegos",
+		"price": 550000,
+		"thumbnail": "no",
+		"stock": 5
+	}
+]
