@@ -1,0 +1,46 @@
+[
+	{
+		"id": "1686976845415",
+		"title": "Smart TV",
+		"description": "Televisor inteligente 4K",
+		"code": "SMTV4K",
+		"price": 210000,
+		"status": true,
+		"stock": 4,
+		"category": "Electrónicos",
+		"thumbnail": "thumb1"
+	},
+	{
+		"id": "1686976845425",
+		"title": "Smartphone",
+		"description": "Celular inteligente",
+		"code": "SMTPH",
+		"price": 90000,
+		"status": true,
+		"stock": 12,
+		"category": "Electrónicos",
+		"thumbnail": "thumb2"
+	},
+	{
+		"id": "1686976845427",
+		"title": "Playstation 5",
+		"description": "Consola de videojuegos",
+		"code": "SNYPS5",
+		"price": 550000,
+		"status": true,
+		"stock": 5,
+		"category": "Electrónicos",
+		"thumbnail": "thumb3"
+	},
+	{
+		"id": "1688776928195",
+		"title": "Prueba1",
+		"description": "Esta es una prueba",
+		"code": "PRU1",
+		"price": "11",
+		"status": true,
+		"stock": "22",
+		"category": "Pruebas",
+		"thumbnail": "none"
+	}
+]
